@@ -16,7 +16,6 @@ The Application and includes:
 
 </br>
 </br>
-</br>
 
 ## Unit Test
 
@@ -27,7 +26,6 @@ The Application and includes:
 
 Webservice, ViewModel and Repository test would be done as JUnit4 test class.
  
- </br>
 </br>
 </br>
  
