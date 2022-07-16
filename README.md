@@ -14,8 +14,9 @@ The Application and includes:
 7. RecyclerView - To display dataset and allow for sufficient scrolling
 8. Coil - To load images into ImagView
 
- <p></p>
- <p></p>
+</br>
+</br>
+</br>
 
 ## Unit Test
 
@@ -25,8 +26,11 @@ The Application and includes:
 </div>
 
 Webservice, ViewModel and Repository test would be done as JUnit4 test class.
- <p></p>
- <p></p>
+ 
+ </br>
+</br>
+</br>
+ 
 ## As Metioned in Written Prompt - Facial Recognition System
 
 <div align="center">
